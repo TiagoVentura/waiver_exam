@@ -4,9 +4,11 @@ This repository contains the waiver exam for
 
 **Deadline:** You have 48 hours to complete this exam. 
 
+**Important:** You are not allowed to use ChatGPT or any other AI-Powered ChatBot to solve this exam. If I find evidence you did so, you will be required to register in the course. 
+
 ## Overview of the exam
 
-This exam provides an overview of all topics covered in PPOL 5203.  The exam is formed by one question from each problem set assigned at PPOL 5203. 
+This exam provides an overview of all topics covered in PPOL 5203.  The exam consists of one question from each problem set assigned at PPOL 5203. 
 
 If you feel confident answering the questions, you should be fine waiving the course. If you feel there are topics here you are struggling with, I suggest you register for the course. My experience is that we often learn new things by taking similar courses multiple times. 
 
@@ -59,8 +61,6 @@ You can open `ipynb` using jupyter notebooks.
 
 Read your assignment carefully. 
 
-All your assignment is contained in the notebook
-
 ### Step 3
 
-Submit your assignment via GitHub, via stage, commit, and push. Save the assignment with a different name
+Submit your assignment via GitHub, via stage, commit, and push. **Save the assignment with a different file name**
