@@ -2,7 +2,7 @@
 
 This repository contains the waiver exam for 
 
-**Deadline:** You have 48 hours to complete this exam. 
+**Deadline:** You have 48 hours to complete this exam. I will only consider commits submitted 48 hours after the time you received the email with the exam. 
 
 **Important:** You are not allowed to use ChatGPT or any other AI-Powered ChatBot to solve this exam. If I find evidence you did so, you will be required to register in the course. 
 
